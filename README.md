@@ -1,2 +1,2 @@
-# stringutil
-String utilities for all of my golang projects
+# gobioutil
+Utility functions for bioinformatic applications written in Go (golang)
